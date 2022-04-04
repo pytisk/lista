@@ -2,46 +2,36 @@
 
 ## Lista de exercícios 01
 
-Exercícios – Nível Iniciante
+### Exercícios – Nível Iniciante
 1. Faça um programa que mostre a mensagem "Alô, mundo!" na tela.
 2. Faça um programa que peça um nome e mostre uma saudação tipo “Oi,<nome>!” na tela.
 3. Faça um programa que peça um número e então mostre a mensagem:
-“O número informado foi [número]”.
+- “O número informado foi [número]”.
 A função input usa o formato "string” e aqui devemos fazer uma conversão para inteiro com num =
 int(input(“Informe um número: “)).
 4. Faça um Programa que peça dois números inteiros e imprima a soma destes.
 5. Faça um Programa que peça as quatro notas bimestrais e mostre a média final.
-6. Faça um Programa que peça o raio de um círculo, em centímetros, calcule e
-mostre sua área em centímetros quadrados.
-Dado: PI = 3.14 e A = PI * raio²
-7. Faça um Programa que peça o valor do lado de um quadrado e mostre a área e
-em seguida mostre o dobro desta área para o usuário.
-Dado: area = lado²
-8. Faça um programa que peça um número natural e mostre a tabuada de
-multiplicar(1 a 10) desse número.
-9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e
-mostre a temperatura em graus Celsius.
-Dado: C = 5 * ((F-32) / 9)
-10. Faça um Programa que peça dois números e imprima a soma, a subtração, a
-multiplicação e a divisão entre os números.
-11. Faça um programa que receba um número n e imprima na tela os primeiros ‘n’
-números quadrados.
-12. Faça um programa que peça um número n e informe se esse número é par ou
-ímpar.
-13. Faça um programa que lê as duas notas parciais obtidas por um aluno numa
-disciplina ao longo de um semestre, e calcule a sua média. A atribuição de
+6. Faça um Programa que peça o raio de um círculo, em centímetros, calcule e mostre sua área em centímetros quadrados.
+- Dado: PI = 3.14 e A = PI * raio²
+7. Faça um Programa que peça o valor do lado de um quadrado e mostre a área e em seguida mostre o dobro desta área para o usuário.
+- Dado: area = lado²
+8. Faça um programa que peça um número natural e mostre a tabuada de multiplicar(1 a 10) desse número.
+9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
+- Dado: C = 5 * ((F-32) / 9)
+10. Faça um Programa que peça dois números e imprima a soma, a subtração, a multiplicação e a divisão entre os números.
+11. Faça um programa que receba um número n e imprima na tela os primeiros ‘n’ números quadrados.
+12. Faça um programa que peça um número n e informe se esse número é par ou ímpar.
+13. Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de
 conceitos obedece à tabela abaixo:
-Média de Aproveitamento Conceito
-Entre 9.0 e 10.0
-A
-Entre 7.5 e 9.0
-B
-Entre 6.0 e 7.5
-C
-Entre 4.0 e 6.0
-D
-Entre 4.0 e zero
-E
+ 
+| Média de Aproveitamento | Conceito |
+| ------------------- | ------------------- |
+| Entre 9.0 e 10.0  | A |
+| Entre 7.5 e 9.0 |B |
+| Entre 6.0 e 7.5 | C |
+| Entre 4.0 e 6.0 | D |
+| Entre 4.0 e zero |E |
+
 O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem
 “APROVADO”
 se o conceito for A, B ou C ou
@@ -104,19 +94,14 @@ CODIGO é composto por cinco algarismos numéricos podendo ter algarismo de 1 a 
 posição. Isso deve ser validado na entrada
 Exemplos
 
-|ENTRADA|SAÍDA |
----------------
-|11111  | abacus |
-|66666  | zoom |
-|88999  | ERRO |
-|11110  | ERRO |
-|123456 | ERRO |
  
-Entrada: 11111  Saída: abacus  
-Entrada: 66666  Saída: zoom  
-Entrada: 88999  Saída: ERRO! Código inexistente  
-Entrada: 111110 Saída: ERRO! Código  inexistente   
-Entrada: 123456 Saída: ERRO! Código inexistente  
+|Entrada|Saída|
+|---|---|
+|**Entrada:** 11111  | **Saída:** abacus | 
+|**Entrada:** 66666  | **Saída:** zoom  |
+|**Entrada:** 88999  | **Saída:** ERRO! Código inexistente  |
+|**Entrada:** 111110 | **Saída:** ERRO! Código  inexistente  | 
+|**Entrada:** 123456 | **Saída:** ERRO! Código inexistente  |
 
 33. Faça um programa que leia um arquivo contendo o nome e o preço de
 diversos produtos(separados por linha), e calcule o total da compra.
