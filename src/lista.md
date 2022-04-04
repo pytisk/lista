@@ -94,19 +94,14 @@ CODIGO é composto por cinco algarismos numéricos podendo ter algarismo de 1 a 
 posição. Isso deve ser validado na entrada
 Exemplos
 
-|ENTRADA|SAÍDA |
----------------
-|11111  | abacus |
-|66666  | zoom |
-|88999  | ERRO |
-|11110  | ERRO |
-|123456 | ERRO |
  
-Entrada: 11111  Saída: abacus  
-Entrada: 66666  Saída: zoom  
-Entrada: 88999  Saída: ERRO! Código inexistente  
-Entrada: 111110 Saída: ERRO! Código  inexistente   
-Entrada: 123456 Saída: ERRO! Código inexistente  
+|Entrada|Saída|
+|---|---|
+|**Entrada:** 11111  | **Saída:** abacus | 
+|**Entrada:** 66666  | **Saída:** zoom  |
+|**Entrada:** 88999  | **Saída:** ERRO! Código inexistente  |
+|**Entrada:** 111110 | **Saída:** ERRO! Código  inexistente  | 
+|**Entrada:** 123456 | **Saída:** ERRO! Código inexistente  |
 
 33. Faça um programa que leia um arquivo contendo o nome e o preço de
 diversos produtos(separados por linha), e calcule o total da compra.
