@@ -151,8 +151,7 @@ Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, consid
 
 - Caso acerte, a mensagem ‘você ganhou’ é exibida e o jogo é finalizado.
 
-- Melhore o script para ter a possibilidade de jogar novamente até que o jogador escolha a opção de
-sair do jogo.
+- Melhore o script para ter a possibilidade de jogar novamente até que o jogador escolha a opção de sair do jogo.
 
 Indicamos fortemente o uso do github ou gitlab para que você venha a disponibilizar as suas respostas destes exercícios propostos na internet.
 
