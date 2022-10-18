@@ -1,7 +1,6 @@
-# ------
-# Faça um programa que peça um nome e mostre uma saudação tipo “Oi,
-# <nome>!” na tela.
-# ------
-
-nome = input('Informe seu nome: ')
-print('Olá,'+ nome+'!')
+# --------------------
+# Lista 01
+# Arquivo: parte01/ex02.py
+# Autor: mweb - pythonisk team
+# Rio, outubro de 2022
+# --------------------

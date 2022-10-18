@@ -1,5 +1,6 @@
-# ------
-# Faça um programa que mostre a mensagem "Alô, mundo!" na tela.
-# ------
-
-print('Alô, mundo!')
+# --------------------
+# Lista 01
+# Arquivo: parte01/ex01.py
+# Autor: mweb - pythonisk team
+# Rio, outubro de 2022
+# --------------------
