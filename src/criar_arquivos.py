@@ -14,8 +14,12 @@ qtd = int(input('Quantidade de arquivos: '))
 pre = 'ex'
 pos = '.py'
 linha = '# '+'-'*20
-texto1 = '# Lista 01\n# Arquivo: parte02/'
+texto1 = '# Lista 01\n# Arquivo: parte03/'
 texto2 = '# Autor: mweb - pythonisk team\n# Rio, outubro de 2022'
-
+for i in range(qtd):
+    filen = f'{pre}{i+1:02}{pos}'
+    conteudo = f'{linha}\n{texto1}{filen}\n{texto2}\n{linha}\n'
+    with open(filen, 'w') as arquivo:
+        arquivo.write(conteudo)
 print(f'{qtd} arquivos foram criados com sucesso!')
 
