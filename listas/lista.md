@@ -108,7 +108,7 @@
 
 1. Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
 
-1. Aqui você pode propor um exercício e resolvê-lo. Lembre-se de considerar o seu nível nos estudos. Capriche!
+1. Aqui você deve **propor um exercício** e resolvê-lo. Lembre-se de considerar o seu nível atual e, especialmente, onde pensa em chegar. **Capriche!**
 
 ### Parte 02
 ---
@@ -168,9 +168,9 @@
 
     | nível | num_inferior | num_superior | tentativas |
     |---|---|---|---|
-    |novato|1|50|10|
-    |mestre|1|70|8 |
-    |guru  |1|100|5|
+    |novato |1|50|10|
+    |mestre |1|70|8 |
+    |guru   |1|100|5|
 
     - O sistema gera um número inteiro entre *inferior* e *superior* para ser adivinhado.
     - A cada chute, o sistema informa se a chave é maior ou menor que o valor tentado e informa a quantidade de tentativas realizadas e restantes.
