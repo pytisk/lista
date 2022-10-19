@@ -17,8 +17,8 @@ A abordagem será prática com a parte teórica sendo vista em algumas aulas e, 
 
 Acesse a documentação inicial:
 
-    - [apostila](listas/primeiros_scripts_apostila.pdf) 
-    - [lista de exercícios](listas/primeiros_scripts_lista01.pdf)
+- [apostila](listas/primeiros_scripts_apostila.pdf) 
+- [lista de exercícios](listas/primeiros_scripts_lista01.pdf)
 
 ## Apoio
 
