@@ -15,7 +15,10 @@ A abordagem será prática com a parte teórica sendo vista em algumas aulas e, 
 
 ### Lista de exercícios
 
-Acesse a [lista de exercícios](src/lista.md)
+Acesse a documentação inicial:
+
+    - [apostila](listas/primeiros_scripts_apostila.pdf) 
+    - [lista de exercícios](listas/primeiros_scripts_lista01.pdf)
 
 ## Apoio
 
