@@ -16,9 +16,10 @@ pos = '.py'
 linha = '# '+'-'*20
 texto1 = '# Lista 01\n# Arquivo: parte03/'
 texto2 = '# Autor: mweb - pythonisk team\n# Rio, outubro de 2022'
+texto3 = '# ENUNCIADO'
 for i in range(qtd):
     filen = f'{pre}{i+1:02}{pos}'
-    conteudo = f'{linha}\n{texto1}{filen}\n{texto2}\n{linha}\n'
+    conteudo = f'{linha}\n{texto1}{filen}\n{texto2}\n{linha}\n{texto3}\n'
     with open(filen, 'w') as arquivo:
         arquivo.write(conteudo)
 print(f'{qtd} arquivos foram criados com sucesso!')

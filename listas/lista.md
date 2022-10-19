@@ -23,7 +23,13 @@
 
 1. Faça um Programa que peça dois números inteiros e imprima a soma destes.
 
+1. Faça um Programa que peça dois números e imprima a soma, a subtração, a multiplicação e a divisão entre os números.
+
 1. Faça um Programa que peça as quatro notas bimestrais e mostre a média final.
+
+1. Faça um programa que peça um número n e informe se esse número é par ou ímpar.
+
+1. Faça um programa que peça um número natural e mostre a tabuada de multiplicar(1 a 10) desse número.
 
 1. Faça um Programa que peça o raio de um círculo, em centímetros, calcule e mostre sua área em centímetros quadrados.
     - Dado: PI = 3.14 e A = PI * raio²
@@ -31,16 +37,10 @@
 1. Faça um Programa que peça o valor do lado de um quadrado e mostre a área e em seguida mostre o dobro desta área para o usuário.
     - Dado: area = lado²
 
-1. Faça um programa que peça um número natural e mostre a tabuada de multiplicar(1 a 10) desse número.
-
 1. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
     - Dado: C = 5 * ((F-32) / 9)
 
-1. Faça um Programa que peça dois números e imprima a soma, a subtração, a multiplicação e a divisão entre os números.
-
 1. Faça um programa que receba um número n e imprima na tela os primeiros ‘n’ números quadrados.
-
-1. Faça um programa que peça um número n e informe se esse número é par ou ímpar.
 
 1. Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:  
   
@@ -108,6 +108,8 @@
 
 1. Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
 
+1. Aqui você pode propor um exercício e resolvê-lo. Lembre-se de considerar o seu nível nos estudos. Capriche!
+
 ### Parte 02
 ---
 
@@ -138,6 +140,8 @@
 
 
 1. Implemente um controle simples de mercadorias em uma despensa doméstica. Para cada produto armazene um código numérico, descrição e quantidade atual. O programa deve ter opções para entrada e retirada de produtos, bem como um relatório geral e um contendo apenas os produtos não disponíveis.
+
+1. Agora é a hora de **VOCÊ** propor o exercício e apresentar a sua solução do mesmo. Evolua no aprendizado.
 
 ### Parte 03
 ---
@@ -173,11 +177,14 @@
 
     - Caso acerte, a mensagem ‘você ganhou’ é exibida e o jogo é finalizado.
 
-    - Melhore o script para ter a possibilidade de jogar novamente até que o jogador escolha a opção de sair do jogo.
+    - **Melhore o script** para ter a possibilidade de jogar novamente até que o jogador escolha a opção de sair do jogo.
+
+1. Como já é de conhecimento, aqui fica a parte em que **VOCÊ** sugere o exercício e apresenta a sua proposta de solução. Lembre-se de que o aprendizado é mais significativo quando há desafios, portanto, fica a dica: **DESAFIE-SE**.
+
 
 ### Importante
 Indicamos fortemente o uso do [github](https://github.com) ou [gitlab](https://about.gitlab.com/) para que você venha a disponibilizar as suas respostas referentes a estes exercícios de forma compartilhada na internet visando futuras melhorias.
 
-By  
-**Pythonisk Team**  
-pythonisk[at]gmail[dot]com
+**&copy;2022** - Pythonisk Team  
+Deseja nos apoiar?  
+-> [Fale conosco](mailto:pythonisk@gmail.com)
